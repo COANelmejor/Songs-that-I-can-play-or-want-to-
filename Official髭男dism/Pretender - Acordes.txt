@@ -1,0 +1,177 @@
+Difficulty: intermediate
+Tuning: E A D G B E
+Capo: 1st fret
+Key: G
+
+If the D#dim is too hard to play you can also play a B7 chord at the end of the chorus.
+ 
+[Intro]
+ 
+G D B7
+Em Am D
+ 
+[Verse]
+ 
+G                  D
+ kimi to no rabusutōrī
+         B7  Em
+sore wa yosōdōri
+              A
+iza hajimareba hitori shibaida
+Am
+zutto soba ni itatte
+  C         D
+kekkyoku tada no kankyakuda
+ 
+G                  D
+ kanjō no nai aimusōrī
+        B7      Em
+sore wa itsumo tōri
+              A
+nareteshimaeba waruku hanaikedo
+Am                         D
+kimi to no romansu wa jinseigara
+                     G
+tsuzuki wa shinai koto o shitta
+ 
+ 
+[Pre-Chorus]
+ 
+Cmaj7         B7    Em
+motto chigau settei de 　
+Em               Dm7   G
+motto chigau kankei de
+Cmaj7     B7    Em
+deaeru sekaisen 　
+Em        Dm7   G
+erabetara yokatta
+Cmaj7           B7    Em
+motto chigau seikaku de 　
+ Em               Dm7   G
+motto chigau kachikan de
+Cmaj7   B7      Em    G
+ai o tsutaeraretara īna 　
+    Am             D
+sō negatte mo mudadakara
+ 
+ 
+[Chorus]
+ 
+N.C.
+gub bai
+G                   D          B7
+ kimi no unmei no hito wa boku janai
+   Em
+tsuraikedo inamenai
+  Dm7       G       Cma7
+demo hanare gatai nosa
+           Bm7
+sono kami ni fureta dake de 　
+ Am7
+itaiya 　 iya demo
+  D        D#dim
+amaina 　 iyaiya
+ 
+ 
+gub bai
+G               D          B7
+ sore ja boku nitotte kimi wa nani ？
+  Em
+kotae wa wakaranai 　
+  Dm7      G        Cma7
+wakaritaku mo nai nosa
+            Bm7                 Am                 D
+tatta hitotsu tashikana koto ga aru to suru nonaraba
+               G
+" kimi wa kireida "
+ 
+[Verse]
+G               D
+ dareka ga era sō ni
+       B7        Em
+kataru renai no ronri
+                   A
+nani hitotsu toshite pin toko nakute
+Am                      D
+hikōki no mado kara mioroshita
+                    G
+shiranai machi no yakei mitaida
+ 
+ 
+[Pre-Chorus]
+ 
+Cmaj7           B7    Em
+motto chigau settei de 　
+Em              Dm7   G
+motto chigau kankei de
+  Cmaj7    B7    Em
+deaeru sekaisen 　
+ Em       Dm7   G
+erabetara yokatta
+ Cmaj7         B7    Em
+itatte junna kokoro de　
+  Em              Dm7    G
+kanatta koi o dakishimete
+    Cmaj7          B7          Em       G
+" sukida " toka musekinin ni ietara īna　
+   Am               D
+sō negatte mo munashī nosa
+ 
+[Chorus]
+ 
+N.C.
+gub bai
+G                 D       B7
+ tsunaida te no mukō ni endorain
+  Em
+hikinobasu tabi ni
+ Dm7      G         Cma7
+uzukidasu mirai ni wa
+             Bm7
+kimi ni wa inai  　
+                  Am7            D
+sono jijitsu ni Cry itaiya iya iya　
+                Cmaj7
+sorya kurushīyona
+ 
+ 
+[Interlude]
+ 
+Cm Bm7 Em A Asus4 A Dsus4 D
+ 
+[Chorus]
+ 
+N.C
+gub bai
+G                   D          B7
+ kimi no unmei no hito wa boku janai
+   Em
+tsuraikedo inamenai
+  Dm7       G        Cma7
+demo hanare gatai nosa
+            Bm7
+sono kami ni fureta dake de 　
+ Am7
+itaiya 　 iya demo
+  D        D#dim
+amaina 　 iyaiya
+ 
+ 
+gub bai
+G               D          B7
+ sore ja boku nitotte kimi wa nani ？
+  Em
+kotae wa wakaranai 　
+  Dm7      G         Cma7
+wakaritaku mo nai nosa
+             Bm7                Am                 D
+tatta hitotsu tashikana koto ga aru to suru nonaraba
+                Cmaj7   Bm7  Am B7  Em
+" kimi wa kireida "
+   D         Cmaj7   Bm7  Am  D
+warukunaiyo na
+                G
+" totemo kireida "
+ 
+[Outro]
+D B7 Em A Am D7 G
